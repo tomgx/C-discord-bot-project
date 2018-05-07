@@ -1,0 +1,13 @@
+{
+	"test":"value",
+	"LoadInMsg":"Starting Up: [{0}] || Discord {1} Loading in......",
+	"commandsHelp":" -help, \n-email {toEmail} {Subject} {Message}, \n-timeout {amount of time} {mention user}, \n-timeout end {mention user}, \n-choose {userInput} {or} {userInput}, \n-delete {amount}, \n-signon(need perms), \n-shutdown(needperms)",
+	"daniel":"200699282989383682",
+	"tom":"225756974602649600",
+	"liam":"210034494223155200",
+	"rob":"162988930491351040",
+	"sean":"209952095758057472",
+	"jordan":"148520050817499136",
+	"andrew":"226052407711236096"
+
+}
